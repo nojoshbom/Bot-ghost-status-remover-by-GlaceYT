@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["█║▌▌║▌█║","▌│█║▌║▌║","║▌║█║▌▌█"];
+const statusMessages = ["Pablo, those cheeks are mine.","Just wait pablo.","Fuck Niggers."];
 
 
 let currentIndex = 0;
